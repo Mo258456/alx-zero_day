@@ -1,1 +1,1 @@
-This readme file is very essential so what you write in this baby will help you in the future.
+This readme file will guide you throgh your code so write them wise please. 
